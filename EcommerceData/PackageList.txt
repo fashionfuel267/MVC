@@ -1,0 +1,10 @@
+﻿Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.IdentityModel.Tokens.Jwt
+Install-Package System.IdentityModel.Tokens.Jwt
+Newtonsoft
+
+
+////////////////////////
+https://www.c-sharpcorner.com/article/how-to-get-free-visual-studio-azure-subscription/
