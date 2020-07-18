@@ -32,7 +32,8 @@ namespace EcommerceData.Controllers
         public async Task<ActionResult<Order>> GetOrder(int id)
         {
             var order = await _context.Orders.FindAsync(id);
-
+               
+            string myName ="jahangir";
             if (order == null)
             {
                 return NotFound();
